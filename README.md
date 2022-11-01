@@ -1,7 +1,4 @@
-# mapallocator
----
-
-command for running
+# otus-allocator
 
 ```
 mkdir build
@@ -10,5 +7,5 @@ cmake .. -DPATCH_VERSION=1
 cmake --build .
 cmake --build . --target test
 cmake --build . --target package
-./src/mapallocatorv2
+./src/allocator
 ```
