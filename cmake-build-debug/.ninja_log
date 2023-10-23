@@ -1,5 +1,0 @@
-# ninja log v5
-1	33	1667321999465199658	src/CMakeFiles/allocator_lib.dir/version.cpp.o	dc3582e586288026
-34	55	1667321999488776000	src/liballocator_lib.a	5a4f2a8b27f8ab7c
-1	424	1667321999855510430	test/CMakeFiles/gtest_allocator.dir/main_test.cpp.o	cf51d13c15b7de85
-1	451	1667321999883024548	test/CMakeFiles/gtest_allocator.dir/version_test.cpp.o	496775089200bff4
